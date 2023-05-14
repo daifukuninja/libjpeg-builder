@@ -8,3 +8,5 @@ jpeg
 /out/**
 !/out/**/
 !/out/.gitkeep
+
+.DS_Store
