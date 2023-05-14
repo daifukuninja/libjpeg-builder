@@ -7,7 +7,7 @@
 以下のコマンドで このリポジトリを任意のディレクトリにクローンします。
 
 ```sh
-git clone xxxxx
+git clone https://github.com/daifukuninja/libjpeg-builder.git
 ```
 
 以下のコマンドで docker コンテナを起動します。
