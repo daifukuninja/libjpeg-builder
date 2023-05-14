@@ -1,0 +1,8 @@
+services:
+  libjpeg-builder:
+    build: .
+    command: sleep infinity
+    volumes:
+      - type: bind
+        source: .
+        target: /app

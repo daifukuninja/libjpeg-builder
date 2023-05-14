@@ -1,0 +1,10 @@
+libjpeg
+jpeg
+
+/ppm/**
+!/ppm/**/
+!/ppm/.gitkeep
+
+/out/**
+!/out/**/
+!/out/.gitkeep
